@@ -1,0 +1,10 @@
+@use 'ng-zorro-antd/ng-zorro-antd.min.css';
+
+body { margin: 0; background: #f0f2f5; font-family: -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
+.page-title { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between; margin-bottom: 16px; }
+.page-title h2 { margin: 0; font-size: 20px; }
+.toolbar { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+.toolbar > * { min-width: 160px; }
+.num { text-align: right; font-variant-numeric: tabular-nums; }
+.muted { color: rgba(0,0,0,.45); }
+nz-card { border-radius: 8px; }
