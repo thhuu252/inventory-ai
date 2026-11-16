@@ -102,4 +102,4 @@ frontend/src/app
 
 ## License
 
-MIT
+MIT, see [LICENSE](LICENSE)
